@@ -72,8 +72,8 @@
 
 ## 🎵 *Vibe While You Scroll!* 🎶  
 <p align="center">
-<!--   <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&unique=true" width="400" /> -->
-<img src="https://www.google.com/imgres?q=spotify%20image%20animated%20src&imgurl=https%3A%2F%2Fwallpapersok.com%2Fimages%2Fhd%2Fspotify-cartoon-art-wdev28fn1ij2pmoc.jpg&imgrefurl=https%3A%2F%2Fwallpapersok.com%2Fwallpapers%2Fspotify-cartoon-art-wdev28fn1ij2pmoc.html&docid=UIHQlG3rSMKkPM&tbnid=j4YKu6HVISAEyM&vet=12ahUKEwjmstmY-6eMAxWYzjgGHVNLNFIQM3oECBUQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjmstmY-6eMAxWYzjgGHVNLNFIQM3oECBUQAAuser=YOUR_SPOTIFY_ID&unique=true" width="400" />"
+  <img src="https://wallpapersok.com/images/hd/spotify-cartoon-art-wdev28fn1ij2pmoc.jpg" width="400" />
+
   
 </p>
 
