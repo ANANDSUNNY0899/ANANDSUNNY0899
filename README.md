@@ -44,7 +44,7 @@
 
 ## 📈 *GitHub Stats & Activity*  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUNNYANAND0899&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/ANANDSUNNY0899&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNNYANAND0899&theme=radical" width="48%" />
 </p>
 
@@ -65,7 +65,7 @@
 ✔ Coding late at night 🌙  
 ✔ Sci-Fi & Space Enthusiast 🚀  
 ✔ Building AI-powered bots 🤖  
-✔ Flutist 
+✔ Flutist 🎶🥢
 
 ---
 
