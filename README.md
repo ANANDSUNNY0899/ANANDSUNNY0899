@@ -25,11 +25,11 @@
 
 ## 🌍 *Let's Connect!* 🌟  
 <p align="center">
-  <a href="https://www.linkedin.com/in/aadarsh-raj-60676a191/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aadarsh%20Raj-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/sunny-anand-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sunny%20Anand-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:aadarshraj4321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-aadarshraj4321@gmail.com-D14836?style=for-the-badge&logo=gmail" />
+  <a href="mailto:asunny583@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-asunny5831@gmail.com-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -65,6 +65,7 @@
 ✔ Coding late at night 🌙  
 ✔ Sci-Fi & Space Enthusiast 🚀  
 ✔ Building AI-powered bots 🤖  
+✔ Flutist 
 
 ---
 
