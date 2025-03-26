@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sunny%20Anand-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:asunny583@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-asunny5831@gmail.com-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-asunny583@gmail.com-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -44,8 +44,8 @@
 
 ## 📈 *GitHub Stats & Activity*  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/ANANDSUNNY0899&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNNYANAND0899&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANANDSUNNY0899&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANANDSUNNY0899&theme=radical" width="48%" />
 </p>
 
 <p align="center">
