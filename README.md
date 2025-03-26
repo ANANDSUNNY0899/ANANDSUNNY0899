@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNNYANAND0899&theme=react-dark" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANANDSUNNY0899&theme=react-dark" width="90%"/>
 </p>
 
 ---
