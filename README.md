@@ -65,7 +65,7 @@
 ✔ Coding late at night 🌙  
 ✔ Sci-Fi & Space Enthusiast 🚀  
 ✔ Building AI-powered bots 🤖  
-✔ Game Development 🕹️🎮👾
+✔ Game Development 🕹️🎮👾</br>
 ✔ Flutist 🎶🥢
 
 ---
